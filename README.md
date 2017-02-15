@@ -9,5 +9,5 @@ Libraries used: iostream and vector
 
 IDE used: Dev C++
 
-Instructions: Download the cpp file: "TowersOfHanoi.cpp" and run it in any IDE. Just enter in any integer such as "3", "5", or "7" and the program will run correctly. Do not enter any doubles or strings as this will cause the program to crash
+How to Run: Download the cpp file: "TowersOfHanoi.cpp" and run it in any IDE. Just enter in any integer such as "3", "5", or "7" and the program will run correctly. Do not enter any doubles or strings as this will cause the program to crash
 
