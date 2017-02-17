@@ -11,7 +11,6 @@ using namespace std;
 int main() {
    //create an array of 3 vectory integer objects, each representing a tower
    vector<int> t[3];
-
    
    //take in user input
    int n;
